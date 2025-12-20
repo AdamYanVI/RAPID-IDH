@@ -1,6 +1,3 @@
-## RAPID-IDH
-![Logo](Figure 1_01.png)
-
 ## Project Description
 This repository contains the analysis pipeline for RAPID-IDH, a Raman spectroscopy–based machine learning framework for intraoperative prediction of IDH mutation status in gliomas.
 
